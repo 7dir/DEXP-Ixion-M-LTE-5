@@ -2,9 +2,20 @@
 
 ![dexp-mlte5](https://rawgit.com/7dir/DEXP-Ixion-M-LTE-5/master/dexp-mlte5.jpg)
 
-MCU Qualcomm Snapdragon MSM8916
+### Дрова
 
-Flash M07X000SA-B315
+[Скачать]()
 
-Audio PM8916
+### Железо
+
+https://www.qualcomm.com/products/snapdragon/processors/410
+
+root - Kingoroot
+
+
+### Links
+http://ru.bmstu.wiki/Qualcomm_Hexagon
+
+
+
 
